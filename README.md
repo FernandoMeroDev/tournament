@@ -34,3 +34,9 @@ Servir API (NestJS en puerto 3000):
 ```sh
 nx serve api
 ```
+
+# Estructura
+
+El código del frontend esta en el directorio '/apps/tournament'.
+
+El código del backend esta en el directorio '/api'.
